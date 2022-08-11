@@ -4,11 +4,10 @@
 float find_largest (int a, int b,int c)
 {
   float;
-  if ( a > b)
-    if (a > c)
-
-      Else  if (b > a)
-  return c;
+  if ( a > b){
+    if (a > c)}
+      Else  if (b > a){
+  return c;}
 }
 
 int main()
